@@ -13,13 +13,10 @@ body{
     margin-left:15% ;
     height: 80vh;
     /* border: 1px solid blue; */
-    margin-top: 6vh;
+    margin-top: 10vh;
     background-color: #FFF;
     border-radius: 10px 0 0 10px;
     box-shadow: -10px 5px 7px rgb(200, 199, 199);
-    /*ce que j'ai ajouté sur github*/
-    /*je vais augmenter la hauteur de formulair de 8 vh reduire sa marge haut de 4vh. pareil pour article image*/ 
-    
 }
 .formulaire form{
     /* border: 1px solid green; */
@@ -101,11 +98,10 @@ button{
     margin-right: 15%;
     background-image: url("../image/téléchargement.jfif");
     background-size: 100% 100%; 
-    margin-top: 6vh;
+    margin-top: 10vh;
     background-repeat: no-repeat;
     border-radius: 0 10px 10px 0;
-    /*ce que j'ai aujouté sur github*/
-/*     padding-bottom:4vh; */
+    
 } 
 
 /* zone du media queries */
